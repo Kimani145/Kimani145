@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/your-image.png" alt="Dev at Desk" width="100%"/>
+<img src="ChatGPT Image Apr 23, 2025, 11_05_16 PM.png" alt="Dev at Desk" width="100%"/>
 
 # 👋 Hey there, I'm Joseph Kimani
 
