@@ -1,4 +1,4 @@
-<img src="resdme.png"/>
+<img src="readme.png"/>
 
 # 👋 Hey there, I'm Joseph Kimani
 
